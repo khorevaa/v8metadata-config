@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites tests="2" name="xUnitFor1C" time="0.116168" failures="1" skipped="0">
+    <testsuite name="">
+        <properties />
+        <testcase classname="МетаданныеКонфигурацииXML_test" name="ТестДолжен_ПроверитьЧтениеМетаданныхКонфигурации" status="failure">
+            <failure message="{Модуль /Users/khorevaa/.local/share/ovm/dev/lib/opm/oscript_modules/asserts/src/xunit-asserts.os / Ошибка в строке: 30 / Сравниваемые значения (; 2.1.8.2) не равны, а хотели, чтобы были равны.&#xA;Результат должен совпадать с ожиданиями.}    &#xA;		ВызватьИсключение(СообщениеОшибки);" />
+        </testcase>
+        <testcase classname="МетаданныеКонфигурацииXML_test" name="ТестДолжен_ПроверитьЗаписьМетаданныхКонфигурации" status="passed" />
+    </testsuite>
+</testsuites>

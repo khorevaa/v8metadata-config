@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<testsuites name="1bdd" time="0" tests="1" failures="0" skipped="0">
+    <testsuite name="Проверка сборки продукта">
+        <properties />
+        <testcase classname="Выполнение команды без параметров" name="Я добавляю параметр &quot;build .&quot; для команды &quot;opm&quot;" status="passed" />
+        <testcase classname="Выполнение команды без параметров" name="Я выполняю команду &quot;opm&quot;" status="passed" />
+        <testcase classname="Выполнение команды без параметров" name="Вывод команды &quot;opm&quot; содержит &quot;Сборка пакета завершена&quot;" status="passed" />
+        <testcase classname="Выполнение команды без параметров" name="Вывод команды &quot;opm&quot; не содержит &quot;Внешнее исключение&quot;" status="passed" />
+        <testcase classname="Выполнение команды без параметров" name="Код возврата команды &quot;opm&quot; равен 0" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Я добавляю параметр &quot;build&quot; для команды &quot;opm&quot;" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Я добавляю параметр &quot;.&quot; для команды &quot;opm&quot;" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Я выполняю команду &quot;opm&quot;" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Вывод команды &quot;opm&quot; содержит &quot;Сборка пакета завершена&quot;" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Вывод команды &quot;opm&quot; не содержит &quot;Внешнее исключение&quot;" status="passed" />
+        <testcase classname="Сборка независимого приложения" name="Код возврата команды &quot;opm&quot; равен 0" status="passed" />
+    </testsuite>
+</testsuites>
